@@ -40,3 +40,5 @@ class String
 
 
 end
+
+"Hello, I'm Daniel".count_sentences
